@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nirav0702
-- 👀 I’m interested in ML, DL and Web Development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on projects based any of the above intrests
+- 👀 I’m interested in pretty much anything that works on code
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me parmarnirav600@gmail.com
 
 <!---
